@@ -8,7 +8,7 @@ TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = "-1002645446624"
-SUDO_USERS = "6149024034"
+SUDO_USERS = "6149024034 1621366244"
 DATABASE_URL = "mongodb+srv://Mariolinks:KzXCB33UrAPDplJq@yczcluster.gpqky3y.mongodb.net/?retryWrites=true&w=majority&appName=Yczcluster"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
