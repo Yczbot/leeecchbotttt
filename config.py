@@ -21,7 +21,11 @@ YT_DLP_OPTIONS = ""
 USE_SERVICE_ACCOUNTS = False
 NAME_SUBSTITUTE = ""
 FFMPEG_CMDS = {}
-UPLOAD_PATHS = {}
+UPLOAD_PATHS = {
+    "-1002645446624": "chat",
+    "-1002257397108": "chat",
+    "6149024034": "chat"  # Owner ID
+}
 # GDrive Tools
 GDRIVE_ID = "1Fwc9NFr8EFnRdwgqIDG8a9CLv30AM6qC"
 IS_TEAM_DRIVE = False
