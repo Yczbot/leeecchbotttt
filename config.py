@@ -11,7 +11,7 @@ AUTHORIZED_CHATS = "-1002645446624 -1002257397108"
 SUDO_USERS = "6149024034 1621366244"
 DATABASE_URL = "mongodb+srv://Mariolinks:KzXCB33UrAPDplJq@yczcluster.gpqky3y.mongodb.net/?retryWrites=true&w=majority&appName=Yczcluster"
 STATUS_LIMIT = 4
-DEFAULT_UPLOAD = "chat"
+DEFAULT_UPLOAD = "tg"
 STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
 STREAMWISH_API = ""
@@ -22,10 +22,8 @@ USE_SERVICE_ACCOUNTS = False
 NAME_SUBSTITUTE = ""
 FFMPEG_CMDS = {}
 UPLOAD_PATHS = {
-    "-1002645446624": "chat",
-    "-1002257397108": "chat",
-    "6149024034": "chat"  # Owner ID
-}
+    "tg": "-1002645446624"
+    }
 # GDrive Tools
 GDRIVE_ID = "1Fwc9NFr8EFnRdwgqIDG8a9CLv30AM6qC"
 IS_TEAM_DRIVE = False
